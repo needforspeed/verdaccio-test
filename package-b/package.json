@@ -1,0 +1,18 @@
+{
+  "name": "@zyc/package-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "true"
+  },
+  "dependencies": {
+    "@zyc/package-a": "^1.1.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "publishConfig": {
+    "registry": "http://localhost:4873"
+  }
+}
